@@ -7,3 +7,4 @@ sixth
 ok
 in readme file
 A in f8
+B in f8
