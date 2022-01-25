@@ -1,1 +1,5 @@
 done
+<<<<<<< HEAD
+=======
+ok msg is added
+>>>>>>> f8
