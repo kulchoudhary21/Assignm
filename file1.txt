@@ -1,5 +1,11 @@
 done
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ok msg is added
+>>>>>>> f8
+=======
+ok msg is added
+one more
+once more
 >>>>>>> f8
